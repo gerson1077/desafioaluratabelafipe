@@ -13,3 +13,4 @@ Java
 Framework Spring Boot
 Criação de listas
 Manipulação de strings JSON via requisição de dados para API
+Gerenciador de depedências Maven (Jackson - https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind/2.18.1)
